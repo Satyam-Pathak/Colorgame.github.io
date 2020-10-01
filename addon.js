@@ -22,7 +22,7 @@ function reload(x){
 	return ans;
 }
 
-
+// Added medium and hard levels to the game
 
 var neww=document.querySelector("#reset");
 neww.addEventListener("click",function(){
